@@ -48,11 +48,12 @@ The goal is to combine all separate datasets to one only. Since we have differen
 we need to first remove the currency symbol and then convert everything to US Dollars.
 The exchange rate is copied manually. So if you want to have the most recent one, you need to
 update the variables Exchange_USD_UK und Exchange_USD_INR first.
-After cleaning we perform another EDA report with sweetviz. Tf you also work with Google Colab
-the reports are saved in your Drive and you have to open them there.
-In a last step we merge all data to one frame.
+
 
 ### Data Visualization
+After cleaning we perform another EDA report with sweetviz. If you also work with Google Colab
+the reports are saved in your Drive and you have to open them there.
+In a last step we merge all data to one frame.
 We perform a last visualization before actually creating the NN model.
 
 ### Data Model
