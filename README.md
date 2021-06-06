@@ -38,7 +38,7 @@ Now you should be able to run the code without problems.
 The Removing all files in advance section does not need to be runned the first time!
 
 ### Data Collection
-This part is devided in 3 different section, so that Amazon USA, India and UK are scraped.
+This part is devided in 3 different section, so that Amazon USA, India and UK are scraped. The code in this section is inspired by this [datacamp tutorial](https://www.datacamp.com/community/tutorials/amazon-web-scraping-using-beautifulsoup?utm_source=adwords_ppc&utm_campaignid=898687156&utm_adgroupid=48947256715&utm_device=c&utm_keyword=&utm_matchtype=b&utm_network=g&utm_adpostion=&utm_creative=332602034352&utm_targetid=aud-392016246653:dsa-429603003980&utm_loc_interest_ms=&utm_loc_physical_ms=1003165&gclid=CjwKCAjwtJ2FBhAuEiwAIKu19gH-cv1X6FOiMwKr5Stfx_dAr48p095QWwbVgIzhW71ErBNqtV1U0RoCrwUQAvD_BwE).
 
 ### EDA
 EDA is performed for each dataset individually.
